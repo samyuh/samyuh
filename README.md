@@ -11,7 +11,7 @@ I'm on third year of my degree.
 - If you wanna know even more about me, visit my [website](https://samuuuh.github.io/)! (It's still under development :P)
 
 ---
-<figure style="text-align:center;">
-    <img src="./images/kimi-no-na-wa.gif" style="box-shadow: 5px 5px rgba(0,0,0,0.5);" alt="Kimi No Na Wa"/>
-    <figcaption><i>Katawaredoki</i></figcaption>
-</figure>
+<p align="center">
+    <img src="./images/kimi-no-na-wa.gif" align="center" alt="Kimi No Na Wa"/>
+    <figcaption align="center"><i>Katawaredoki</i></figcaption>
+</p>
