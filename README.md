@@ -1,4 +1,4 @@
-<h3 align="center">Heyyy! This is my Github Profile!</h2>
+<h3 align="center">Heyyy! This is my Github Profile!</h3>
 
 My name is Diogo Samuel Fernandes and currently I'm a software engineering student at FEUP.
 I'm on third year of my degree.
@@ -13,5 +13,6 @@ I'm on third year of my degree.
 ---
 <p align="center">
     <img src="./images/kimi-no-na-wa.gif" align="center" alt="Kimi No Na Wa"/>
-    <figcaption align="center"><i>Katawaredoki</i></figcaption>
 </p>
+
+<p align="center"><i>Katawaredoki</i></p>
