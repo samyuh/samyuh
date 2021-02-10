@@ -12,7 +12,7 @@ I'm on third year of my degree.
 
 ---
 <p align="center">
-    <img src="./images/kimi-no-na-wa.gif" align="center" alt="Kimi No Na Wa" width="1500"/>
+    <img src="./images/kimi-no-na-wa.gif" align="center" alt="Kimi No Na Wa" />
 </p>
 
 <p align="center"><i>Katawaredoki</i></p>
