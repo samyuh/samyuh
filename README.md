@@ -7,6 +7,7 @@ I'm on third year of my degree.
 ##### About me
 - Addicted to music!
 - I love reading fantasy, sci-fi, and mangas!
+    - Currently reading: Chain of Gold
 - If you wanna see all my repositories in one place, go check my [index](./INDEX.md)!
 - If you wanna know even more about me, visit my [website](https://samuuuh.github.io/)! (It's still under development :P)
 
