@@ -9,4 +9,3 @@
 - Addicted to music!
 - I love reading fantasy, sci-fi, and mangas!
 - If you wanna see all my repositories in one place, go check my [index](./INDEX.md)!
-- If you wanna know even more about me, visit my [website](https://samuuuh.github.io/)!
