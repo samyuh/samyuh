@@ -3,15 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=Samuuuh&style=flat-square&label=Profile+Views)
 [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](diogosamuelfernandes@outlook.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diogosamuel/) 
-[![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/Char-Al) 
 
 
 <img align='right' src='./images/kimi-no-na-wa.gif' width='390'>
 
-I'm Diogo Samuel Fernandes and I am currently a student of software engineering at FEUP. 
-I am currently writing my master's thesis. In my free time, I enjoy reading and listening to music.
-
-My primary areas of interest are Computer Vision, Computer Graphics, Cryptography/Security, and Mathematics. I am also fascinated by astronomy.
+My name is Diogo Samuel Fernandes, and I am a software engineer. I obtained a Master of Science degree from FEUP and thrive on tackling new challenges and solving complex problems. I am passionate about creating highly efficient code and automating its deployment process. In my leisure time, I like to read books, listen to music, and gazing the stars at night.
 
 > "E as pessoas nem sonham que quem acaba uma coisa nunca é aquele que a começou, mesmo que ambos tenham um nome igual, que isso só é que se mantém constante, nada mais"
 > 
