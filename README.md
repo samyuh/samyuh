@@ -7,7 +7,7 @@
 
 <img align='right' src='./images/kimi-no-na-wa.gif' width='390'>
 
-My name is Diogo Samuel Fernandes, and I am a software engineer. I obtained a Master of Science degree from FEUP and thrive on tackling new challenges and solving complex problems. I am passionate about creating highly efficient code and automating its deployment process. In my leisure time, I like to read books, listen to music, and gazing the stars at night.
+My name is Diogo Samuel Fernandes, and I'm currently a software engineer at Feedzai. I obtained a Master of Science degree from FEUP and thrive on tackling new challenges and solving complex problems. I am passionate about creating highly efficient code and automating its deployment process. In my leisure time, I like to read books, listen to music, and gazing the stars at night.
 
 > "E as pessoas nem sonham que quem acaba uma coisa nunca é aquele que a começou, mesmo que ambos tenham um nome igual, que isso só é que se mantém constante, nada mais"
 > 
