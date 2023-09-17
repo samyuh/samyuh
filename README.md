@@ -1,8 +1,8 @@
 # You found me!
 
-[![Email](https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](diogosamuelfernandes@outlook.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diogosamuel/) 
-![](https://komarev.com/ghpvc/?username=Samuuuh&style=for-the-badge&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Samuuuh&style=flat-square&label=Profile+Views)
+[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](diogosamuelfernandes@outlook.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diogosamuel/) 
 
 <img align='right' src='./images/kimi-no-na-wa.gif' width='390'>
 
