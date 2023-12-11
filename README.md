@@ -1,12 +1,10 @@
 # You found me!
 
 ![](https://komarev.com/ghpvc/?username=Samuuuh&style=flat-square&label=Profile+Views)
-[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](diogosamuelfernandes@outlook.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diogosamuel/) 
 
 <img align='right' src='./images/kimi-no-na-wa.gif' width='390'>
 
-Hello! My name is Diogo Samuel Fernandes, and I'm currently a software engineer at Feedzai. I obtained a Master of Science degree from FEUP and thrive on tackling new challenges and solving complex problems. My favorite interests lie in the fields of distributed systems and machine learning. These areas fascinate me because they offer the opportunity to apply cutting-edge technology to solve complex problems, optimize processes, and create robust, scalable solutions. In my leisure time, I like to read books, listen to music, and gazing the stars at night.
+Hello! My name is Diogo Samuel Fernandes, and I'm currently a software engineer. I obtained a Master of Science degree from FEUP and thrive on tackling new challenges and solving complex problems. My favorite interests lie in the fields of distributed systems and machine learning. These areas fascinate me because they offer the opportunity to apply cutting-edge technology to solve complex problems, optimize processes, and create robust, scalable solutions. In my leisure time, I like to read books, listen to music, and gazing the stars at night.
 
 > "E as pessoas nem sonham que quem acaba uma coisa nunca é aquele que a começou, mesmo que ambos tenham um nome igual, que isso só é que se mantém constante, nada mais"
 > 
