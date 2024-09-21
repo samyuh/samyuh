@@ -4,7 +4,7 @@
 
 <img align='right' src='./images/kimi-no-na-wa.gif' width='390'>
 
-Hello! My name is Diogo Samuel Fernandes, and I'm currently a software engineer. I obtained a Master of Science degree from FEUP and thrive on tackling new challenges and solving complex problems. My favorite interests lie in the fields of distributed systems and machine learning. These areas fascinate me because they offer the opportunity to apply cutting-edge technology to solve complex problems, optimize processes, and create robust, scalable solutions. In my leisure time, I like to read books, listen to music, and gazing the stars at night.
+Hey! I have a Master's degree in Software Engineering and am currently working as one. I thrive on tackling new challenges and solving complex problems. My favorite interests lie in the fields of distributed systems and machine learning. These areas fascinate me because they offer the opportunity to apply cutting-edge technology to solve complex problems, optimize processes, and create robust, scalable solutions. In my leisure time, I like to read books, listen to music, and gazing the stars at night.
 
 > "E as pessoas nem sonham que quem acaba uma coisa nunca é aquele que a começou, mesmo que ambos tenham um nome igual, que isso só é que se mantém constante, nada mais"
 > 
